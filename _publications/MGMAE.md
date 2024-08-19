@@ -1,9 +1,7 @@
 ---
 title: "MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio"
 collection: publications
-category: manuscripts
 permalink: /publication/MGMAE
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-08-03
 venue: '31rd ACM International Conference on Information and Knowledge Management'
 ---
