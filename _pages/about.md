@@ -19,11 +19,11 @@ My research focuses on graph machine learning and large-scale graph data pre-tra
 
 Publication
 ======
-* [MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio](https://Jinjia-Feng.github.io/publication/MGMAE).
+* [MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio](https://xkxxfyf.github.io/publication/MGMAE).
 
   Jinjia Feng, Zhen Wang, Yaliang Li, Bolin Ding, Zhewei Wei, Hongteng Xu. (**Accepted by CIKM 2022**)
 
-* [Federated Heterogeneous Contrastive Distillation for Molecular Representation Learning](https://Jinjia-Feng.github.io/publication/FedHCD).
+* [Federated Heterogeneous Contrastive Distillation for Molecular Representation Learning](https://xkxxfyf.github.io/publication/FedHCD).
 
   Jinjia Feng, Zhen Wang, Yaliang Li, Bolin Ding, Zhewei Wei, Hongteng Xu. (**Accepted by CIKM 2024**)
 <br/>
