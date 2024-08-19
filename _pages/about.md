@@ -13,7 +13,7 @@ Feng Jinjia is currently a third-year Ph.D. student at the Gaoling School of Art
 
 Research Interests
 ======
-My research focuses on graph machine learning and large-scale graph data pre-training. Currently, I am investigating the alleviation of information bottlenecks through virtual node structures in graph Transformers, positional encoding of graph structures, and pre-training based on molecular geometric structures.
+My research focuses on graph machine learning and large-scale graph data pre-training. Currently, I am currently working on the alleviation of information bottlenecks through virtual node structures in graph Transformers, positional encoding of graph structures, and pre-training based on molecular geometric structures.
 <br/>
 <br/>
 
